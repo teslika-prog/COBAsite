@@ -61,9 +61,9 @@ h1, h2 {
     font-size: 14px;
     color: #555555;
     letter-spacing: 1px;
-} /* Сюда добавлена пропущенная закрывающая скобка */
+} 
 
-/* Защита иконки от переопределения шрифта Courier New */
+
 .fa-brands, .fab {
     font-family: "Font Awesome 6 Brands" !important;
 }
